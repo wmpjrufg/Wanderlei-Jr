@@ -3,7 +3,7 @@ Seja bem vindo a página do professor [Wanderlei Malaquias Pereira Junior](http:
 Para você que não me conhece sou Eng. Civil e possuo especialização em engenharia de estruturas, mais especificamente em estruturas de concreto armado. Essa página destina-se a divulgar os materiais didáticos e científicos que produzimos no nosso grupo de pesquisa o `GPEE` (_Grupo de Pesquisas e Estudos em Engenharia_). Para aqueles que desejam entrar em contato comigo seguem as opções:
 
 e-mail: <span style="color:#5f93cb"><i>_wanderlei_junior@ufg.br_</i></span>   
-Telefone: <span style="color:#5f93cb">+55 (64) 9 8438-7092</span>    
+Telefone: <span style="color:#2a73bb">+55 (64) 9 8438-7092</span>    
 
 Meus interesses são voltados as área de engenharia de estrutras, aplicações dos conceitos de inteligência artificial, otimização e confiabilidade. 
 
