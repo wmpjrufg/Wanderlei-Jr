@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title: Prof. Wanderlei M. Pereira Junior
+gems: ["emoji_for_jekyll"]
