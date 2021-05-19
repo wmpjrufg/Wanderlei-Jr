@@ -10,13 +10,16 @@ Meus interesses são voltados as área de engenharia de estrutras, aplicações 
 Abaixo você poderá conferir um pouco das nossas contribuições clicando nos _links_:
 
 > **Ensino:**
-- [Material didático ECA I](https://wmpjrufg.github.io/Wanderlei-Jr/ECAI.html)  
+- [Material didático ECA I](https://drive.google.com/drive/folders/1L21fwNn3AjdCZ2XKQHoK3whxDoyA-oO9?usp=sharing)  
 - [Material didático ECA II]()  
 - [Material didático Pontes]()  
 - [Material didático Concreto Protendido]()      
 - [Material didático Métodos Computacionais]()  
 
 > **Pesquisa:**
+- [Otimização]()
+- [Confiabilidade]()
+- [Inteligência artificial]()
 
 
 > **Extensão:**
