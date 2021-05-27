@@ -10,7 +10,7 @@ Meus interesses são voltados as área de engenharia de estrutras, aplicações 
 Abaixo você poderá conferir um pouco das nossas contribuições clicando nos _links_:
 
 > **Ensino:**
-- [Material didático ECA I](https://drive.google.com/drive/folders/1L21fwNn3AjdCZ2XKQHoK3whxDoyA-oO9?usp=sharing) 
+- [Material didático ECA I](https://github.com/wmpjrufg/Wanderlei-Jr/blob/gh-pages/ECA%201/W%20M%20Pereira%20Junior%20e%20A%20L%20C%20Lima_Livro%20de%20ECA%201_r00_190521.pdf) 
 - [Material didático Estágio Supervisionado](https://wmpjrufg.github.io/ESTAGIO-CIVIL-UFCAT/)   
 - [Material didático ECA II]()  
 - [Material didático Pontes]()
